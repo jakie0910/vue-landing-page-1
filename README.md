@@ -1,2 +1,3 @@
 # vue-landing-page-1
-Responsive Svelte application
+
+Updated documentation for Responsive Svelte application
